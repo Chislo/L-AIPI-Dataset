@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this dataset in your research, please cite it as below."
+authors:
+  - family-names: "Ubabukoh"
+    given-names: "Chisom L."
+    affiliation: "Jindal Global Law School, O.P. Jindal Global University"
+    orcid: "https://orcid.org"
+title: "Longitudinal AI Preparedness Index (L-AIPI) Dataset: 2000–2023"
+version: "1.0.0"
+doi: "10.5281/zenodo.laipi"
+date-released: 2026-10-08
+url: "https://github.com/Chislo/L-AIPI-Dataset"
+keywords:
+  - "artificial intelligence"
+  - "climate resilience"
+  - "macroeconomics"
+  - "digital divide"
+  - "agricultural economics"
+  - "panel data"
+license: "CC-BY-4.0"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Ubabukoh"
+      given-names: "Chisom L."
+  title: "The AI Adaptation Capacity Paradox: Longitudinal AI Preparedness and Agricultural Climate Resilience in Developing Economies"
+  journal: "Information Technology for Development"
+  year: 2026
