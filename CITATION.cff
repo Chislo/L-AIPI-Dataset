@@ -6,9 +6,9 @@ authors:
     affiliation: "Jindal Global Law School, O.P. Jindal Global University"
     orcid: "https://orcid.org"
 title: "Longitudinal AI Preparedness Index (L-AIPI) Dataset: 2000–2023"
-version: "1.0.0"
+version: "1.0.1"
 doi: "10.5281/zenodo.laipi"
-date-released: 2026-10-08
+date-released: 2026-10-09
 url: "https://github.com/Chislo/L-AIPI-Dataset"
 keywords:
   - "artificial intelligence"
