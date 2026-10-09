@@ -1,6 +1,6 @@
 # Longitudinal AI Preparedness Index (L-AIPI, 2000–2023)
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.laipi-blue.svg)](https://doi.org)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23255930.svg)](https://doi.org/10.5281/zenodo.23255930)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Data Formats](https://img.shields.io/badge/Formats-CSV%20%7C%20Stata%20%7C%20Excel-green.svg)](#data-files)
 [![Temporal Coverage](https://img.shields.io/badge/Coverage-2000--2023-orange.svg)](#dataset-coverage)
@@ -129,7 +129,7 @@ If you use the $\text{L-AIPI}$ dataset in your research, please cite both the em
 ```
 
 ### 2. Dataset Citation
-> Ubabukoh, C. L. (2026). *Longitudinal AI Preparedness Index (L-AIPI) Dataset: 2000–2023* [Data set]. Zenodo. https://doi.org/10.5281/zenodo.laipi
+> Ubabukoh, C. L. (2026). *Longitudinal AI Preparedness Index (L-AIPI) Dataset: 2000–2023* [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23255930
 
 ```bibtex
 @dataset{ubabukoh2026laipi_data,
@@ -137,7 +137,7 @@ If you use the $\text{L-AIPI}$ dataset in your research, please cite both the em
   title     = {Longitudinal AI Preparedness Index (L-AIPI) Dataset: 2000--2023},
   year      = {2026},
   publisher = {Zenodo},
-  doi       = {10.5281/zenodo.laipi},
+  doi       = {10.5281/zenodo.23255930},
   url       = {https://github.com/Chislo/L-AIPI-Dataset}
 }
 ```

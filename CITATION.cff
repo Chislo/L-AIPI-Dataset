@@ -6,6 +6,7 @@ authors:
     affiliation: "Jindal Global Law School, O.P. Jindal Global University"
 title: "Longitudinal AI Preparedness Index (L-AIPI) Dataset: 2000–2023"
 version: "1.0.2"
+doi: "10.5281/zenodo.23255930"
 date-released: 2026-10-09
 url: "https://github.com/Chislo/L-AIPI-Dataset"
 keywords:
