@@ -1,0 +1,22 @@
+{
+  "title": "Longitudinal AI Preparedness Index (L-AIPI) Dataset: 2000–2023",
+  "description": "An open-access macroeconomic panel dataset tracking national artificial intelligence readiness across 149 developing economies from 2000 to 2023. Grounded in the multi-pillar conceptual framework of the IMF AI Preparedness Index (AIPI), L-AIPI reconstructs continuous time-varying readiness scores across digital infrastructure, human capital, and innovation pillars to enable longitudinal econometric estimation and climate resilience modeling.",
+  "creators": [
+    {
+      "name": "Ubabukoh, Chisom L.",
+      "affiliation": "Jindal Global Law School, O.P. Jindal Global University"
+    }
+  ],
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "upload_type": "dataset",
+  "keywords": [
+    "artificial intelligence",
+    "climate resilience",
+    "macroeconomics",
+    "developing economies",
+    "panel data",
+    "agricultural economics",
+    "digital divide"
+  ]
+}
