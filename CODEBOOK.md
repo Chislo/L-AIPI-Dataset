@@ -55,10 +55,11 @@ Captures domestic scientific capacity, knowledge generation, and high-technology
 
 ## 3. Data Dictionary
 
-The standardized panel datasets contain the following 15 variables:
+The standardized panel datasets contain the following 16 variables:
 
 | Variable Name | Stata Type | Format | Units / Range | Description | Source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `country_id` | `int` | `%8.0g` | $1$ to $N$ | Numeric Country Identifier (with value labels for `xtset country_id year`) | Standardized Factor |
 | `iso3` | `str3` | `%3s` | Text | ISO 3166-1 alpha-3 country code | Standardized |
 | `country_name` | `str45` | `%45s` | Text | Standard country name | World Bank |
 | `region` | `str30` | `%30s` | Text | UN geographical region | UN M49 |

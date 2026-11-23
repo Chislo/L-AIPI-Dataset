@@ -1,0 +1,17 @@
+Variable Name,Variable Label,Category,Data Type,Unit / Range,Primary Source
+country_id,Numeric Country Identifier (for Stata xtset country_id year),Panel Structure,Integer (1-N),1 to N,Standardized Index Factor
+iso3,ISO 3166-1 alpha-3 country code,Identifier,String (3 chars),ISO standard,ISO / World Bank
+country_name,Official country name,Identifier,String,Text,World Bank / UN
+region,UN geographic sub-region classification,Geographic Classification,String,UN M49 standard,UN Statistics Division
+continent,Geographic continent,Geographic Classification,String,"Africa, Asia, Americas, Europe, Oceania",UN Statistics Division
+year,Observation year (2000-2023),Time Dimension,Integer,2000 - 2023,Annual Panel Series
+laipi_composite,Longitudinal AI Preparedness Index [0-1 composite],Core Index (L-AIPI),Float,"[0.0000, 1.0000]",Ubabukoh (2026) Composite Index
+pillar_digital_infra,Digital Infrastructure Pillar [0-1 normalized],L-AIPI Pillar 1 (DI),Float,"[0.0000, 1.0000]",ITU / World Bank WDI (IT.NET.USER.ZS)
+pillar_human_capital,Human Capital Pillar [0-1 normalized],L-AIPI Pillar 2 (HC),Float,"[0.0000, 1.0000]",World Bank HCI / Penn World Table 10.0
+pillar_innovation,Innovation & Domestic Absorption Capability Pillar [0-1],L-AIPI Pillar 3 (INN),Float,"[0.0000, 1.0000]","World Bank WDI (R&D, Patents, Articles, High-Tech Exports)"
+agri_val_add_worker,Agricultural value added per worker (constant 2015 USD),Agricultural Outcome,Float,Constant 2015 USD,World Bank WDI / FAOSTAT (NV.AGR.EMPL.KD)
+temp_anomaly_c,Surface temperature anomaly (deg C relative to 1951-1980 base),Climate Shock,Float,Degrees Celsius (°C),NASA GISS / FAOSTAT Climate Indicators
+trade_openness_gdp,Trade openness (Exports + Imports as % of GDP),Macroeconomic Control,Float,% of GDP,World Bank WDI (NE.TRD.GNFS.ZS)
+internet_usage_pct,Individuals using the Internet (% of population),Digital Infrastructure,Float,% of population,ITU / World Bank WDI
+human_capital_index,Raw Human Capital Index (World Bank HCI / PWT),Human Capital,Float,"Index [0, 1]",World Bank / Penn World Table
+imf_aipi_2023,Official 2023 IMF AI Preparedness Index benchmark score,Benchmark Validation,Float,"Index [0, 1]","IMF SDN/2024/001 (Cazzaniga et al., 2024)"
